@@ -1,4 +1,4 @@
-# PE_annotation
+# Radiology report annotation for Pulmonary Embolism
 
 Welcome to the PE_annotation wiki!
 
