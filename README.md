@@ -6,7 +6,7 @@ A hybrid method–**Intelligent Word Embedding (IWE) **that combines neural embe
 
 We applied IWE to generate embedding of chest CT radiology reports from two healthcare organizations and utilized the vector representations to semi-automate radiology report categorization based on clinically relevant categorization related to the diagnosis of pulmonary embolism (PE).
 
-Methodlogy:
+Methodology:
 
 Extract Impression;
 Pre-process text;
